@@ -1,0 +1,8 @@
+pandas
+numpy
+pygwalker
+streamlit
+openai
+matplotlib
+databutton
+plotly
