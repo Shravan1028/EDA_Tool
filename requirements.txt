@@ -1,8 +1,10 @@
 pandas
 numpy
 pygwalker
-streamlit
+streamlit==1.28.2
 openai
 matplotlib
 databutton
 plotly
+streamlit-option-menu
+extra-streamlit-components
